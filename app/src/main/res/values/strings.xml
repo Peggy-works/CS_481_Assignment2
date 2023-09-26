@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dynamic Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="bar_fragment">Bar Fragment</string>
+    <string name="line_fragment">Line Fragment</string>
+    <string name="bar_button">Bar</string>
+    <string name="line_button">Line</string>
+</resources>
